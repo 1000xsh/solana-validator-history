@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "1000x.sh",
+  "license": "MIT",
   "devDependencies": {
     "@solana/web3.js": "^1.91.1",
     "@types/bn.js": "^5.1.5",
